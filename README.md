@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://avatars.githubusercontent.com/YOUR_GITHUB_USERNAME" alt="profile picture" width="150" style="border-radius: 50%; box-shadow: 0 0 15px rgba(0,0,0,0.2);">
+  <img src="hero-img.jpg" alt="profile picture" width="150" style="border-radius: 50%; box-shadow: 0 0 15px rgba(0,0,0,0.2);">
   
   <h1>Hi 👋, I'm Your Name</h1>
   
