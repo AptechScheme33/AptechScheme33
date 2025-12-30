@@ -1,6 +1,6 @@
 
 <header>
-    <img src="Aptech-Logo.wine.png" />
+    <img src="Aptech-Logo.wine.png" height="300px" width="300px" />
     <h1>Aptech Scheme 33 Center</h1>
     <p>Professional IT Skill Program Recordings</p>
 </header>
