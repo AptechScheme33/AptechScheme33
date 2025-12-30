@@ -1,47 +1,35 @@
-<!-- README.md -->
+# Aptech Scheme 33 – Skill Program Recordings
 
-<div align="center">
+Welcome to the official GitHub repository for **Aptech Scheme 33 Center**, a leading IT education institute based in **Karachi, Pakistan**.
 
-  <img src="hero-img.jpg" alt="profile picture" width="150" style="border-radius: 50%; box-shadow: 0 0 15px rgba(0,0,0,0.2);">
-  
-  <h1>Hi 👋, I'm Your Name</h1>
-  
-  <p>
-    💻 Frontend & Backend Developer <br>
-    🎓 IT Faculty | Freelancer <br>
-    🌐 Karachi, Pakistan
-  </p>
+This repository is created to provide **organized access to recorded training sessions** of various skill-based programs offered at our center. It serves as a learning support resource for students and trainees.
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="github stats" />
-  </a>
-  
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="streak stats" />
-  </a>
+---
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="top languages" />
-  </a>
+## 📍 About Aptech Scheme 33
 
-  <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  </p>
+Aptech Scheme 33 Center is committed to delivering high-quality IT education and practical skill development. Our programs are designed to meet current industry standards and prepare students for professional careers in technology.
 
-</div>
+---
 
-<style>
-  h1 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 28px;
-    margin-top: 15px;
-  }
-  p {
-    font-size: 16px;
-    color: #555;
-  }
-  img {
-    margin: 10px;
-  }
-</style>
+## 📚 Available Skill Programs
+
+This repository will contain recordings and supporting materials for the following programs (and more):
+
+- **PHP & MySQL Development**
+- **ASP / ASP.NET**
+- **WordPress Development**
+- **Web Design (HTML, CSS, JavaScript)**
+- **Database Concepts**
+- **Backend Development**
+- **CMS & Frameworks**
+- **Other Short Skill Programs**
+
+> New recordings and programs will be added regularly.
+
+---
+
+## 🗂 Repository Structure
+
+Each skill program will be organized in its own folder for easy navigation:
+
